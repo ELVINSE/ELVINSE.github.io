@@ -1,2 +1,1 @@
-
-this is my website that im trying to build lol any help or ideas will be greatly appretiated.
+Hi, im Elvinse! new to html and github, I need ideas for this website lmao adios fellow internet comrades.!
